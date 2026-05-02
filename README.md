@@ -38,3 +38,5 @@ Terminal painting tool for unix-based OS.
 
 - Unserious project.
 - Credits go to me.
+
+[[file:./assets/Calendar.png]]
