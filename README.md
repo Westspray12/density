@@ -1,5 +1,5 @@
 # density
-Terminal painting tool for unix-based OS.
+Terminal drawing-tool for unix-based OS.
 
 **available tools**
 - colors : white, black, red, blue, green, yellow, purple, cyan
