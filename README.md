@@ -1,5 +1,5 @@
 # density
-**Description: ** Terminal drawing-tool for unix-based OS.
+**Description :** Drawing-tool for unix-based OS.
 
 **available tools**
 - colors : white, black, red, blue, green, yellow, purple, cyan
